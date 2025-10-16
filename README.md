@@ -61,4 +61,4 @@ Eine nachhaltige Integration in die Regelversorgung erfordert:
 ---
 
 📄 **Vollständiges Manuskript:**  
-[📘 Seminararbeit (PDF)](./SeminarartbeitPaulschmelzer.pdf)
+[📘 Seminararbeit (PDF)](./Manuscrkipt_gesundheitsmanagementt.pdf)
